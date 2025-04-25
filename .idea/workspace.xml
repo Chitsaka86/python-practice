@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e40ccc8c-6210-4b97-99bb-f944d2b4049f" name="Changes" comment="first exercise" />
+    <list default="true" id="e40ccc8c-6210-4b97-99bb-f944d2b4049f" name="Changes" comment="first exercise">
+      <change afterPath="$PROJECT_DIR$/sum-digits-num.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,20 +43,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Check-odd-even.executor": "Run",
-    "Python.Reverse-string.executor": "Run",
-    "Python.Sum-of-digits-of-no.executor": "Run",
-    "Python.factorial-loop.executor": "Run",
-    "Python.factorial-use-loops.executor": "Run",
-    "Python.sum-list.executor": "Run",
-    "Python.sumallElements.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Check-odd-even.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Reverse-string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sum-of-digits-of-no.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorial-loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorial-use-loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum-list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sumallElements.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
