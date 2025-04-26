@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e40ccc8c-6210-4b97-99bb-f944d2b4049f" name="Changes" comment="first exercise">
-      <change afterPath="$PROJECT_DIR$/Reverse-strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sum-digits-num.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reverse-strings.README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Reverse-strings.README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sum-digits-num.README.md" beforeDir="false" afterPath="$PROJECT_DIR$/sum-digits-num.README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +52,7 @@
     "Python.Sum-of-digits-of-no.executor": "Run",
     "Python.factorial-loop.executor": "Run",
     "Python.factorial-use-loops.executor": "Run",
+    "Python.sum-digits-num.executor": "Run",
     "Python.sum-list.executor": "Run",
     "Python.sumallElements.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
