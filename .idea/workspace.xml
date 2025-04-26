@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e40ccc8c-6210-4b97-99bb-f944d2b4049f" name="Changes" comment="first exercise">
-      <change afterPath="$PROJECT_DIR$/sum-digits-num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursive.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum-digits-num.README.md" beforeDir="false" afterPath="$PROJECT_DIR$/sum-digits-num.README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Check-odd-even.executor": "Run",
+    "Python.Recursive.executor": "Run",
     "Python.Reverse-string.executor": "Run",
     "Python.Reverse-strings.executor": "Run",
     "Python.Sum-of-digits-of-no.executor": "Run",
